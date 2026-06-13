@@ -1,0 +1,41 @@
+The Strategy Pattern is a behavioural design pattern that helps to define multiple algorithms for a specific task and allows the client to choose which one to use at runtime.
+
+        * It promotes the Open/Closed Principle by allowing new strategies to be added without modifying existing code.
+        * It encapsulates the algorithms, making them interchangeable and easier to maintain.
+
+
+
+                +----------------------+
+                |  PaymentStrategy     |  (Interface)
+                |----------------------|
+                |  + pay(amount)       |
+                +----------+-----------+
+                           |
+        ------------------------------------------
+        |                    |                    |
++---------------+   +----------------+   +----------------+
+| UpiPayment    |   | CreditCardPay  |   | PaypalPayment  |
+|---------------|   |----------------|   |----------------|
+| pay(amount)   |   | pay(amount)    |   | pay(amount)    |
++---------------+   +----------------+   +----------------+
+
+                           ↑
+                           |
+                 +----------------------+
+                 |   PaymentService     |  (Context)
+                 |----------------------|
+                 | PaymentStrategy      |
+                 |----------------------|
+                 | processPayment()     |
+                 +----------+-----------+
+                            |
+                            ↓
+                      Client / Controller
+
+
+The selected diagram illustrates the Strategy Pattern for payment processing.
+It features a `PaymentStrategy` interface defining a `pay(amount)` method,
+implemented by concrete classes `UpiPayment`, `CreditCardPay`, and `PaypalPayment`.
+The `PaymentService` context class holds a `PaymentStrategy` reference and provides a `processPayment()` method,
+allowing clients to select and execute payment strategies at runtime.
+This design promotes flexibility, encapsulation, and adherence to the Open/Closed Principle.

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOriented/Interface/Interface.iml" filepath="$PROJECT_DIR$/ObjectOriented/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JunitDemo/JunitDemo.iml" filepath="$PROJECT_DIR$/JunitDemo/JunitDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListDemo/LinkedListDemo.iml" filepath="$PROJECT_DIR$/LinkedListDemo/LinkedListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectOriented/ObjectOriented.iml" filepath="$PROJECT_DIR$/ObjectOriented/ObjectOriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID_Principles/SOLID_Principles.iml" filepath="$PROJECT_DIR$/SOLID_Principles/SOLID_Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamsAPI/StreamsAPI.iml" filepath="$PROJECT_DIR$/StreamsAPI/StreamsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String_Demo/String_Demo.iml" filepath="$PROJECT_DIR$/String_Demo/String_Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Junit_Class/src/main/main.iml" filepath="$PROJECT_DIR$/Junit_Class/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Junit_Class/src/test/test.iml" filepath="$PROJECT_DIR$/Junit_Class/src/test/test.iml" />
+    </modules>
+  </component>
+</project>

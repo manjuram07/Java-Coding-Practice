@@ -1,0 +1,46 @@
+Definition:
+------------
+Factory design pattern is a creational design pattern that provides an interface for creating objects in a super class,
+but allows subclasses to alter the type of objects that will be created.
+
+* Provides an interface for creating objects without exposing the object creation logic to the client.
+
+          Payment (Interface)
+                |
+   ------------------------------
+   |            |               |
+UpiPayment  CreditCardPayment  PaypalPayment
+
+                |
+           PaymentFactory
+                |
+              Client
+
+
+Advantages of Factory Pattern
+------------------------------
+1. Loose Coupling
+    Client does not know the concrete class.
+
+2. Follows Open/Closed Principle
+    You can add a new payment type without modifying client code.
+    Example: BitcoinPayment
+    Only add new class + update factory.
+
+3. Centralized Object Creation
+    All object creation happens in one place.
+
+4. Encapsulation of Object Creation Logic
+    Complex creation logic is hidden from client.
+
+5. Promotes Code Reusability
+    Common code for creating objects can be reused in factory.
+
+How This Applies to E-Commerce Architecture
+--------------------------------------------
+Factory pattern can be used for:
+        Module	        Factory Example
+        Payment	        PaymentFactory
+        Shipping	    ShippingFactory
+        Notification	NotificationFactory
+        Discount	    DiscountStrategyFactory

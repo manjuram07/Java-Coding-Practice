@@ -1,0 +1,8 @@
+Definition: When a class has many fields, constructors become hard to manage:
+                Too many parameters (telescoping constructors)
+                Hard to read and maintain
+                Optional fields become messy
+
+
+Builder design pattern provides a way to construct complex objects step by step.
+It separates the construction of a complex object from its representation, allowing the same construction process to create different representations.

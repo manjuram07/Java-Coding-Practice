@@ -1,0 +1,72 @@
+!SESSION 2026-04-27 13:26:52.828 -----------------------------------------------
+eclipse.buildId=4.25.0.202409101855
+java.version=21.0.4
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2026-04-27 13:27:57.270
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-04-27 13:28:26.979
+!MESSAGE Logback config file: C:\Users\dayan\OneDrive\Desktop\Manju Ram\JAVA Coding Practice\Design Principles\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2026-04-27 13:28:27.741
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-04-27 13:28:27.741
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2026-04-27 13:28:28.234
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2026-04-27 13:28:28.234
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY com.genuitec.copilot4eclipse 1 0 2026-04-27 13:28:37.340
+!MESSAGE [C4E] Copilot API proxy: native mode
+
+!ENTRY org.eclipse.egit.ui 2 0 2026-04-27 13:28:39.309
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\dayan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.copilot4eclipse 1 0 2026-04-27 13:28:39.428
+!MESSAGE Starting Copilot4Eclipse
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2026-04-27 13:28:39.634
+!MESSAGE [Chat} EdgeDataDir: C:\Users\dayan\OneDrive\Desktop\Manju Ram\JAVA Coding Practice\Design Principles\.metadata\.plugins\com.genuitec.copilot4eclipse\edgedata
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2026-04-27 13:28:44.442
+!MESSAGE Init failed - Copilot LS is not active
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2920)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+!ENTRY com.genuitec.copilot4eclipse 1 0 2026-04-27 13:28:46.484
+!MESSAGE Starting Copilot4Eclipse
+
+!ENTRY com.genuitec.copilot4eclipse 4 0 2026-04-27 13:28:51.487
+!MESSAGE Init failed - Copilot LS is not active
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture$Timeout.run(CompletableFuture.java:2920)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+!ENTRY com.genuitec.copilot4eclipse 1 0 2026-04-27 13:28:53.492
+!MESSAGE Starting Copilot4Eclipse
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2026-04-27 13:28:57.033
+!MESSAGE Timeout while checking Copilot status
