@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="984acef3-490d-4cb8-a658-87a38e6bbb4b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array_Data_Structures" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/copilot.data.migration.ask2agent.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/easycode.ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/Desing Patterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/src/com/SingletonDP/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Desing Patterns/src/com/SingletonDP/SingletonMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/classes/production/Exceptions/Multithreading/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/classes/production/Exceptions/Multithreading/Shared.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/src/Multithreading/ReentrantLock_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/src/Multithreading/ReentrantLock_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA17_Features/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA17_Features/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Streams API Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Streams API Java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/dayan/OneDrive/Desktop/Manju Ram/JAVA Coding Practice/DSA" value="3GFi0YQvxpxp8rZ2B5dLXpZsMt5" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manjuram07"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/manjuram07/Java-Coding-Practice.git",
+    "accountId": "85b329cc-988c-41da-baca-c1836c2eb8c9"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3GFi0YQvxpxp8rZ2B5dLXpZsMt5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "C:/Users/dayan/OneDrive/Desktop/Manju Ram/JAVA Coding Practice/DSA/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984acef3-490d-4cb8-a658-87a38e6bbb4b" name="Changes" comment="" />
+      <created>1783573500535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783573500535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
